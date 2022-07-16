@@ -1,4 +1,4 @@
-This project is discontinued.\
+This project was discontinued but has now recently updated .\
 Most of the code is very bad, if you copy something make sure you fix it up.\
 Thanks to the ones who have supported me during the making of this
 
@@ -125,7 +125,4 @@ Usage: `/usecooldown [milliseconds] [left]`
 
 - You can set up a redstone clock hooked up to a dropper system to allow for full automation
 
-#### More info about Ghost Macro:
-- A custom macro can be set to automatically use Soul Whip to shoot  at the closest ghost
-- A custom macro can be set to automatically use healing items to stay alive
-- It is also possible to use a different mod, such as [Oringo Client](https://shadyaddons.com/other-mods)'s Kill Aura to automatically kill ghosts in combination with custom macros
+
