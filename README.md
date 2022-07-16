@@ -1,4 +1,4 @@
-This project was discontinued but has now recently updated .\
+This project was discontinued but has now recently updated .
 
 # RoseGoldAddons Feature List:
 ### Keybinds:
